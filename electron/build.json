@@ -1,0 +1,10 @@
+{
+  "productName": "{{name}}",
+  "files": [
+    "./dist/*",
+    "./main.js"
+  ],
+  "directories": {
+    "output": "./build"
+  }
+}
